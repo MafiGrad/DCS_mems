@@ -1,0 +1,8 @@
+.settings/
+Debug/
+Drivers/
+*.cproject
+*.mxproject
+*.project
+*.launch
+*.ld
